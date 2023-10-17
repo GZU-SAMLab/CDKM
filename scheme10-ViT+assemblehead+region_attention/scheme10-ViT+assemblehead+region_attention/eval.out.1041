@@ -1,0 +1,786 @@
+x5Reading preprocess file.
+reading evaluation file.
+IMG_INFO: 63 IOU: 0.905 OK: 1 SCORE: 0.674 METEOR: 0.223
+PRED:
+a white plate on a table
+GT:
+white plate with decorative border
+--------------------
+IMG_INFO: 467 IOU: 0.552 OK: 1 SCORE: 0.224 METEOR: 0.118
+PRED:
+a brown pot on a fence
+GT:
+green plant ifrdecn clay pot on railing
+--------------------
+IMG_INFO: 1051 IOU: 0.774 OK: 1 SCORE: 0.454 METEOR: 0.236
+PRED:
+a white toilet seat
+GT:
+seat on a bar stool
+--------------------
+IMG_INFO: 2194 IOU: 0.520 OK: 1 SCORE: 0.317 METEOR: 0.133
+PRED:
+a shelf with items
+GT:
+three shelves with rounded edges
+--------------------
+IMG_INFO: 713052 IOU: 0.440 OK: 1 SCORE: 0.595 METEOR: 0.000
+PRED:
+green shirt with yellow writing
+GT:
+a boy holding a baseball bat
+--------------------
+IMG_INFO: 2414960 IOU: 0.709 OK: 1 SCORE: 0.349 METEOR: 0.357
+PRED:
+a green and orange pen
+GT:
+batteries on top of the coffee table
+green and orange batteries
+two colorful aa batteries on the coffee table
+--------------------
+IMG_INFO: 2413404 IOU: 0.249 OK: 1 SCORE: 0.410 METEOR: 0.217
+PRED:
+white arrow on the road
+GT:
+white lines are drawn in the road
+--------------------
+IMG_INFO: 2410529 IOU: 0.909 OK: 1 SCORE: 0.572 METEOR: 0.394
+PRED:
+woman wearing a blue hat
+GT:
+a person bending over
+a person wearing a blue hat
+--------------------
+IMG_INFO: 2410145 IOU: 0.879 OK: 1 SCORE: 0.437 METEOR: 0.040
+PRED:
+a large mountain range
+GT:
+a long low cloud
+low clouds over shorline
+--------------------
+IMG_INFO: 2408505 IOU: 0.755 OK: 1 SCORE: 0.659 METEOR: 0.196
+PRED:
+a wooden coffee table
+GT:
+corner of a living room coffee table
+--------------------
+IMG_INFO: 2406932 IOU: 0.524 OK: 1 SCORE: 0.287 METEOR: 0.050
+PRED:
+the dog is brown
+GT:
+the pet has fur
+--------------------
+IMG_INFO: 2406453 IOU: 0.626 OK: 1 SCORE: 0.309 METEOR: 0.292
+PRED:
+white line on the road
+GT:
+a white line on a black street
+--------------------
+IMG_INFO: 2405104 IOU: 0.786 OK: 1 SCORE: 0.527 METEOR: 0.143
+PRED:
+a white sculpture on the wall
+GT:
+ white statue of a woman
+--------------------
+IMG_INFO: 2404716 IOU: 0.787 OK: 1 SCORE: 0.309 METEOR: 0.000
+PRED:
+a yellow door
+GT:
+word magnets are all over front of orange cabinet
+--------------------
+IMG_INFO: 2403838 IOU: 0.936 OK: 1 SCORE: 0.535 METEOR: 0.295
+PRED:
+tall green trees in the background
+GT:
+pine trees in background
+row of tall evergreen trees
+trees all around in the top of the hill 
+forest lining a snow covered slope
+--------------------
+IMG_INFO: 2402866 IOU: 0.834 OK: 1 SCORE: 0.579 METEOR: 0.330
+PRED:
+blue glove on the womans hand
+GT:
+blue plastic glove on hand
+--------------------
+IMG_INFO: 2402461 IOU: 0.381 OK: 1 SCORE: 0.452 METEOR: 0.080
+PRED:
+a house in the distance
+GT:
+house sitting down hill from pergola
+--------------------
+IMG_INFO: 2400614 IOU: 0.648 OK: 1 SCORE: 0.438 METEOR: 0.329
+PRED:
+a traffic light
+GT:
+street traffic light
+--------------------
+IMG_INFO: 2398783 IOU: 0.042 OK: 1 SCORE: 0.474 METEOR: 0.000
+PRED:
+the mouth of a man
+GT:
+light reflection on face
+--------------------
+IMG_INFO: 2398504 IOU: 0.649 OK: 1 SCORE: 0.568 METEOR: 0.000
+PRED:
+people at the beach
+GT:
+it is a windy day
+--------------------
+IMG_INFO: 2397645 IOU: 0.625 OK: 1 SCORE: 0.385 METEOR: 0.118
+PRED:
+green grass on the ground
+GT:
+green plant in foreground
+--------------------
+IMG_INFO: 2397328 IOU: 0.099 OK: 1 SCORE: 0.295 METEOR: 0.000
+PRED:
+a street light
+GT:
+signs on picket fence
+--------------------
+IMG_INFO: 2396214 IOU: 0.433 OK: 1 SCORE: 0.327 METEOR: 0.138
+PRED:
+two pictures on the wall
+GT:
+paintings above the couch
+--------------------
+IMG_INFO: 2394757 IOU: 0.724 OK: 1 SCORE: 0.615 METEOR: 0.025
+PRED:
+a person on a snowboard
+GT:
+snow boarder with a red snow board
+--------------------
+IMG_INFO: 2394238 IOU: 0.684 OK: 1 SCORE: 0.584 METEOR: 0.076
+PRED:
+a black tire with red rim
+GT:
+this tire is bald but not flat yet
+--------------------
+IMG_INFO: 2393408 IOU: 0.705 OK: 1 SCORE: 0.296 METEOR: 0.033
+PRED:
+a large banner on a building
+GT:
+a video screen of some sort
+--------------------
+IMG_INFO: 2392655 IOU: 0.647 OK: 1 SCORE: 0.505 METEOR: 0.313
+PRED:
+blue saddle on horse
+GT:
+blue straps on horse
+--------------------
+IMG_INFO: 2392274 IOU: 0.285 OK: 1 SCORE: 0.374 METEOR: 0.000
+PRED:
+a womans hand
+GT:
+diamond tennis bracelet on arm
+--------------------
+IMG_INFO: 2391542 IOU: 0.037 OK: 1 SCORE: 0.557 METEOR: 0.245
+PRED:
+brown spot on giraffe
+GT:
+a giraffe
+--------------------
+IMG_INFO: 2391195 IOU: 0.370 OK: 1 SCORE: 0.345 METEOR: 0.050
+PRED:
+bottom of the vase
+GT:
+the toilet is wooden
+--------------------
+IMG_INFO: 2390834 IOU: 0.377 OK: 1 SCORE: 0.338 METEOR: 0.323
+PRED:
+the scarf is yellow
+GT:
+a red and yellow scarf
+--------------------
+IMG_INFO: 2390561 IOU: 0.516 OK: 1 SCORE: 0.613 METEOR: 0.150
+PRED:
+the head of a man
+GT:
+brown hair on the man
+--------------------
+IMG_INFO: 2389545 IOU: 0.557 OK: 1 SCORE: 0.455 METEOR: 0.387
+PRED:
+a large tree trunk
+GT:
+a very big tree
+--------------------
+IMG_INFO: 2388750 IOU: 0.505 OK: 1 SCORE: 0.374 METEOR: 0.129
+PRED:
+green leaves on the table
+GT:
+thin green reeds
+--------------------
+IMG_INFO: 2388335 IOU: 0.897 OK: 1 SCORE: 0.657 METEOR: 0.312
+PRED:
+the womans shadow on the ground
+GT:
+the shadow from the woman
+--------------------
+IMG_INFO: 2387661 IOU: 0.822 OK: 1 SCORE: 0.550 METEOR: 0.039
+PRED:
+a man running on a field
+GT:
+boy wearing a tie
+--------------------
+IMG_INFO: 2386867 IOU: 0.206 OK: 1 SCORE: 0.507 METEOR: 0.000
+PRED:
+glasses on a womans face
+GT:
+the boys hair is black
+--------------------
+IMG_INFO: 2386263 IOU: 0.950 OK: 1 SCORE: 0.578 METEOR: 0.236
+PRED:
+a bear walking on the ground
+GT:
+bear has brown fur
+brown bear is staring
+light brown furry bear
+big brown bear in a field
+a bear on a mountain
+brown bear on a hillside
+--------------------
+IMG_INFO: 2384220 IOU: 0.601 OK: 1 SCORE: 0.364 METEOR: 0.162
+PRED:
+a vent on the wall
+GT:
+vent near the ceiling
+--------------------
+IMG_INFO: 2383807 IOU: 0.774 OK: 1 SCORE: 0.433 METEOR: 0.242
+PRED:
+palm trees in the distance
+GT:
+several tall palm trees
+--------------------
+IMG_INFO: 2383402 IOU: 0.144 OK: 1 SCORE: 0.435 METEOR: 0.031
+PRED:
+a metal pole
+GT:
+black suv park in a driveway
+--------------------
+IMG_INFO: 2382904 IOU: 0.469 OK: 1 SCORE: 0.475 METEOR: 0.000
+PRED:
+the food in the mans mouth
+GT:
+tan donut with sugar on it
+--------------------
+IMG_INFO: 2380642 IOU: 0.711 OK: 1 SCORE: 0.360 METEOR: 0.088
+PRED:
+black cord on the desk
+GT:
+wires under monitor on table
+--------------------
+IMG_INFO: 2380310 IOU: 0.733 OK: 1 SCORE: 0.299 METEOR: 0.219
+PRED:
+the wing of a bird
+GT:
+tail of bird
+--------------------
+IMG_INFO: 2379791 IOU: 0.744 OK: 1 SCORE: 0.320 METEOR: 0.068
+PRED:
+orange letters on hat
+GT:
+it appears to have an orange san fransisco logo
+--------------------
+IMG_INFO: 2378532 IOU: 0.720 OK: 1 SCORE: 0.368 METEOR: 0.052
+PRED:
+a man sitting on a bench
+GT:
+a tan mannequin 
+--------------------
+IMG_INFO: 2377743 IOU: 0.094 OK: 1 SCORE: 0.414 METEOR: 0.000
+PRED:
+a black door frame
+GT:
+the children are sitting
+--------------------
+IMG_INFO: 2377261 IOU: 0.852 OK: 1 SCORE: 0.435 METEOR: 0.251
+PRED:
+a red cord
+GT:
+red and black cord
+--------------------
+IMG_INFO: 2376853 IOU: 0.263 OK: 1 SCORE: 0.501 METEOR: 0.245
+PRED:
+the mouth of a giraffe
+GT:
+nose of the giraffe
+--------------------
+IMG_INFO: 2376521 IOU: 0.127 OK: 1 SCORE: 0.431 METEOR: 0.093
+PRED:
+a motorcycle parked on the street
+GT:
+black jacket hanging over motorcycle
+--------------------
+IMG_INFO: 2376117 IOU: 0.915 OK: 1 SCORE: 0.689 METEOR: 0.415
+PRED:
+the man is wearing a brown jacket
+GT:
+brown and black hooded jacket
+the man is wearing a winter jacket
+the man has his arms extended
+the coat is different shades of brown
+--------------------
+IMG_INFO: 2375718 IOU: 0.402 OK: 1 SCORE: 0.313 METEOR: 0.000
+PRED:
+a shelf full of bottles
+GT:
+coffee maker on the counter
+--------------------
+IMG_INFO: 2374875 IOU: 0.581 OK: 1 SCORE: 0.533 METEOR: 0.065
+PRED:
+a black stovetop burner
+GT:
+the black burners on the right side of the stove
+--------------------
+IMG_INFO: 2374527 IOU: 0.507 OK: 1 SCORE: 0.434 METEOR: 0.183
+PRED:
+window on the back of the truck
+GT:
+window on small booth
+--------------------
+IMG_INFO: 2374159 IOU: 0.376 OK: 1 SCORE: 0.401 METEOR: 0.331
+PRED:
+a snow covered pine tree
+GT:
+large snow covered tree
+--------------------
+IMG_INFO: 2373846 IOU: 0.470 OK: 1 SCORE: 0.498 METEOR: 0.000
+PRED:
+a fire hydrant
+GT:
+this picture is blurry
+some type of special effect was used on this picture
+--------------------
+IMG_INFO: 2373560 IOU: 0.840 OK: 1 SCORE: 0.421 METEOR: 0.327
+PRED:
+a man holding a camera
+GT:
+man is holding the camera
+--------------------
+IMG_INFO: 2372746 IOU: 0.597 OK: 1 SCORE: 0.547 METEOR: 0.196
+PRED:
+a bird on the beach
+GT:
+bird in the snow
+--------------------
+IMG_INFO: 2372266 IOU: 0.250 OK: 1 SCORE: 0.282 METEOR: 0.000
+PRED:
+the word air on the plane
+GT:
+passenger windows
+--------------------
+IMG_INFO: 2371294 IOU: 0.835 OK: 1 SCORE: 0.500 METEOR: 0.273
+PRED:
+a person wearing a yellow jacket
+GT:
+a skier wearing a yellow snowsuit
+--------------------
+IMG_INFO: 2370651 IOU: 0.669 OK: 1 SCORE: 0.454 METEOR: 0.240
+PRED:
+white uniform on player
+GT:
+players uniform is white
+players uniform is white
+--------------------
+IMG_INFO: 2369564 IOU: 0.829 OK: 1 SCORE: 0.360 METEOR: 0.327
+PRED:
+a green bush
+GT:
+a tall green bush
+--------------------
+IMG_INFO: 2369123 IOU: 0.056 OK: 1 SCORE: 0.321 METEOR: 0.027
+PRED:
+a white building with a red roof
+GT:
+green grassy hill with houses on it
+--------------------
+IMG_INFO: 2368727 IOU: 0.733 OK: 1 SCORE: 0.389 METEOR: 0.205
+PRED:
+wooden cabinets
+GT:
+the cabinets are made of wood
+--------------------
+IMG_INFO: 2368201 IOU: 0.954 OK: 1 SCORE: 0.675 METEOR: 0.322
+PRED:
+a bottle of beer
+GT:
+the bottle of wisconsin amber
+a dark amber beer
+bottle of amber beer
+a beer sitting on the table 
+--------------------
+IMG_INFO: 2367255 IOU: 0.690 OK: 1 SCORE: 0.542 METEOR: 0.260
+PRED:
+a red car parked on the street
+GT:
+a brown parked car
+--------------------
+IMG_INFO: 2366494 IOU: 0.350 OK: 1 SCORE: 0.453 METEOR: 0.000
+PRED:
+black and yellow ski boots
+GT:
+these are shoes
+--------------------
+IMG_INFO: 2366153 IOU: 0.581 OK: 1 SCORE: 0.416 METEOR: 0.078
+PRED:
+a white sign on a pole
+GT:
+red white and black traffic signs
+--------------------
+IMG_INFO: 2365627 IOU: 0.378 OK: 1 SCORE: 0.345 METEOR: 0.091
+PRED:
+a surfboard in the water
+GT:
+water that appears to change colors
+--------------------
+IMG_INFO: 2365287 IOU: 0.075 OK: 1 SCORE: 0.425 METEOR: 0.000
+PRED:
+the arm of a man
+GT:
+glasses on mans face
+--------------------
+IMG_INFO: 2364537 IOU: 0.967 OK: 1 SCORE: 0.505 METEOR: 0.208
+PRED:
+a metal fence
+GT:
+tall chain link metal fence
+--------------------
+IMG_INFO: 2364210 IOU: 0.773 OK: 1 SCORE: 0.413 METEOR: 0.340
+PRED:
+a window on a building
+GT:
+the window of a building
+--------------------
+IMG_INFO: 2362928 IOU: 0.038 OK: 1 SCORE: 0.292 METEOR: 0.000
+PRED:
+yellow candle on a cake
+GT:
+container for hot items
+--------------------
+IMG_INFO: 2361203 IOU: 0.715 OK: 1 SCORE: 0.593 METEOR: 0.371
+PRED:
+a red train car
+GT:
+the train car is red
+--------------------
+IMG_INFO: 2359680 IOU: 0.405 OK: 1 SCORE: 0.403 METEOR: 0.317
+PRED:
+black shoe on a skateboarder
+GT:
+left black shoe of skateboarder
+--------------------
+IMG_INFO: 2359375 IOU: 0.022 OK: 1 SCORE: 0.245 METEOR: 0.038
+PRED:
+wheel on a skateboard
+GT:
+a pair of black pants
+--------------------
+IMG_INFO: 2358710 IOU: 0.494 OK: 1 SCORE: 0.573 METEOR: 0.215
+PRED:
+red double decker bus
+GT:
+red bus in the background
+--------------------
+IMG_INFO: 2357877 IOU: 0.758 OK: 1 SCORE: 0.430 METEOR: 0.021
+PRED:
+green leaves on trees
+GT:
+this is a large group of treesbushes
+--------------------
+IMG_INFO: 2357555 IOU: 0.078 OK: 1 SCORE: 0.628 METEOR: 0.041
+PRED:
+the head of a giraffe
+GT:
+a chain link fence
+--------------------
+IMG_INFO: 2356997 IOU: 0.546 OK: 1 SCORE: 0.522 METEOR: 0.411
+PRED:
+white clouds in the sky
+GT:
+clouds are in the sky
+sky is a brilliant blue
+--------------------
+IMG_INFO: 2356552 IOU: 0.685 OK: 1 SCORE: 0.451 METEOR: 0.384
+PRED:
+a pink dress on a girl
+GT:
+she has a pink dress
+--------------------
+IMG_INFO: 2355698 IOU: 0.897 OK: 1 SCORE: 0.678 METEOR: 1.000
+PRED:
+group of people on skis
+GT:
+group of skiers posing for picture
+a large group of skiiers
+group of people on skis
+man facing away from group
+skiers on skiis
+skiers holding ski poles
+nine skiers in two lines
+people with skiboards and ski poles
+people with skiboards and ski poles
+people with skiboards and ski poles
+people with skiboards and ski poles
+people with skiboards and ski poles
+--------------------
+IMG_INFO: 2355011 IOU: 0.485 OK: 1 SCORE: 0.301 METEOR: 0.100
+PRED:
+the shower is white
+GT:
+the curtain is open
+--------------------
+IMG_INFO: 2354126 IOU: 0.697 OK: 1 SCORE: 0.675 METEOR: 0.361
+PRED:
+black pants on a skier
+GT:
+black snow pants on the skier
+his pants are black
+black ski pants
+--------------------
+IMG_INFO: 2353749 IOU: 0.838 OK: 1 SCORE: 0.434 METEOR: 0.000
+PRED:
+a red and white striped bottle
+GT:
+model of dalek on desk
+--------------------
+IMG_INFO: 2353479 IOU: 0.778 OK: 1 SCORE: 0.611 METEOR: 0.510
+PRED:
+a man playing tennis
+GT:
+man playing tennis
+man about to hit a ball 
+--------------------
+IMG_INFO: 2350161 IOU: 0.881 OK: 1 SCORE: 0.684 METEOR: 0.533
+PRED:
+a white cat laying on a bed
+GT:
+a cat sleeping on a bed
+it is a white cat
+it is a white cat laying on a bed
+white cat lying on bed
+a cat laying on a bedspread
+a white and tan cat
+--------------------
+IMG_INFO: 2349684 IOU: 0.092 OK: 1 SCORE: 0.350 METEOR: 0.000
+PRED:
+black tennis racket
+GT:
+part of an arm 
+--------------------
+IMG_INFO: 2349182 IOU: 0.857 OK: 1 SCORE: 0.303 METEOR: 0.115
+PRED:
+a white door
+GT:
+white switch on the wall
+light switch on wall behind counter
+--------------------
+IMG_INFO: 2348393 IOU: 0.843 OK: 1 SCORE: 0.706 METEOR: 0.252
+PRED:
+a little girl on a skateboard
+GT:
+the woman is on a skateboard
+the blonde woman is wearing a red dress
+the blonde girl rides a skateboard
+lady riding on skateboard
+--------------------
+IMG_INFO: 2346553 IOU: 0.416 OK: 1 SCORE: 0.547 METEOR: 0.032
+PRED:
+the head of a woman
+GT:
+girl wearing pair of glasses
+--------------------
+IMG_INFO: 2345791 IOU: 0.786 OK: 1 SCORE: 0.320 METEOR: 0.122
+PRED:
+the collar of a shirt
+GT:
+mans shirt is white
+--------------------
+IMG_INFO: 2345448 IOU: 0.055 OK: 1 SCORE: 0.451 METEOR: 0.000
+PRED:
+a white piece of wood
+GT:
+the ground is brown
+--------------------
+IMG_INFO: 2345119 IOU: 0.433 OK: 1 SCORE: 0.461 METEOR: 0.124
+PRED:
+cars on the road
+GT:
+these drivers have their lights on
+--------------------
+IMG_INFO: 2344787 IOU: 0.906 OK: 1 SCORE: 0.651 METEOR: 0.190
+PRED:
+a red baseball jersey
+GT:
+red baseball uniform worn by person
+blue and orange jersey
+--------------------
+IMG_INFO: 2344419 IOU: 0.542 OK: 1 SCORE: 0.586 METEOR: 0.029
+PRED:
+a green and white baby carriage
+GT:
+a bicycle pulling a small holder
+--------------------
+IMG_INFO: 2343979 IOU: 0.806 OK: 1 SCORE: 0.602 METEOR: 0.254
+PRED:
+the pole is black
+GT:
+this is a pole
+--------------------
+IMG_INFO: 2343476 IOU: 0.472 OK: 1 SCORE: 0.404 METEOR: 0.263
+PRED:
+red ski boots
+GT:
+a red and blue ski boot
+--------------------
+IMG_INFO: 2342297 IOU: 0.906 OK: 1 SCORE: 0.562 METEOR: 0.096
+PRED:
+the word air canada on the side of the plane
+GT:
+mark on plane reading easy jet
+--------------------
+IMG_INFO: 2341974 IOU: 0.823 OK: 1 SCORE: 0.561 METEOR: 0.236
+PRED:
+green grass on the field
+GT:
+white line painted across grass
+white line on the field
+--------------------
+IMG_INFO: 2341475 IOU: 0.638 OK: 1 SCORE: 0.507 METEOR: 0.000
+PRED:
+blue and white sign
+GT:
+pharmacy is in the background 
+--------------------
+IMG_INFO: 2339785 IOU: 0.837 OK: 1 SCORE: 0.376 METEOR: 0.338
+PRED:
+red and black case on the desk
+GT:
+red and black airplane 
+right wing of the toy plane
+--------------------
+IMG_INFO: 2335283 IOU: 0.390 OK: 1 SCORE: 0.629 METEOR: 0.042
+PRED:
+a man surfing
+GT:
+a clear blue sky 
+light blue and clear sky
+--------------------
+IMG_INFO: 2328594 IOU: 0.086 OK: 1 SCORE: 0.460 METEOR: 0.000
+PRED:
+a black and white shoe
+GT:
+the home plate
+--------------------
+IMG_INFO: 2328052 IOU: 0.181 OK: 1 SCORE: 0.317 METEOR: 0.035
+PRED:
+the eye of a goat
+GT:
+there is a camel head here
+--------------------
+IMG_INFO: 2326656 IOU: 0.460 OK: 1 SCORE: 0.347 METEOR: 0.000
+PRED:
+the wave is crashing
+GT:
+a fast flow of water
+--------------------
+IMG_INFO: 2325511 IOU: 0.664 OK: 1 SCORE: 0.410 METEOR: 0.098
+PRED:
+a tree in a distance
+GT:
+trees covered in green leaves
+--------------------
+IMG_INFO: 2323857 IOU: 0.597 OK: 1 SCORE: 0.350 METEOR: 0.123
+PRED:
+black sleeve of womans shirt
+GT:
+the sweater is black in color
+--------------------
+IMG_INFO: 2322564 IOU: 0.528 OK: 1 SCORE: 0.566 METEOR: 0.117
+PRED:
+the nose of a teddy bear
+GT:
+bears nose is brown
+--------------------
+IMG_INFO: 2321148 IOU: 0.463 OK: 1 SCORE: 0.440 METEOR: 0.376
+PRED:
+yellow taxi cab
+GT:
+yellow taxi cab on median
+--------------------
+IMG_INFO: 2319484 IOU: 0.734 OK: 1 SCORE: 0.580 METEOR: 0.105
+PRED:
+a pair of glasses
+GT:
+man wearing black glasses
+--------------------
+IMG_INFO: 2319059 IOU: 0.858 OK: 1 SCORE: 0.528 METEOR: 0.105
+PRED:
+the shorts are camoflauge
+GT:
+man wearing camo shorts
+--------------------
+IMG_INFO: 2317214 IOU: 0.044 OK: 1 SCORE: 0.677 METEOR: 0.030
+PRED:
+a picture on the wall
+GT:
+a combination bedroom and home office
+--------------------
+IMG_INFO: 2316909 IOU: 0.761 OK: 1 SCORE: 0.527 METEOR: 0.178
+PRED:
+a man is walking on the beach
+GT:
+person standing on sandy beach
+--------------------
+IMG_INFO: 2316415 IOU: 0.453 OK: 1 SCORE: 0.336 METEOR: 0.352
+PRED:
+the front wheel of a bicycle
+GT:
+front wheel of bike
+--------------------
+IMG_INFO: 2415048 IOU: 0.850 OK: 1 SCORE: 0.480 METEOR: 0.120
+PRED:
+a black metal pole
+GT:
+grey fence post
+post of black gate
+a brown pointed fence post on the farm
+--------------------
+IMG_INFO: 2414628 IOU: 0.540 OK: 1 SCORE: 0.362 METEOR: 0.087
+PRED:
+person sitting on the blanket
+GT:
+bags on the beach towel 
+--------------------
+IMG_INFO: 2413380 IOU: 0.353 OK: 1 SCORE: 0.344 METEOR: 0.124
+PRED:
+the water is blue
+GT:
+a light blue ocean 
+--------------------
+IMG_INFO: 2412492 IOU: 0.275 OK: 1 SCORE: 0.412 METEOR: 0.000
+PRED:
+a brown wooden door frame
+GT:
+asphalt
+--------------------
+IMG_INFO: 2412026 IOU: 0.941 OK: 1 SCORE: 0.591 METEOR: 0.220
+PRED:
+man wearing a black and white shirt
+GT:
+a man has a gray shirt
+a hat on a mans head
+--------------------
+IMG_INFO: 2417061 IOU: 0.786 OK: 1 SCORE: 0.717 METEOR: 0.311
+PRED:
+two people on a motorcycle
+GT:
+a person on a bikea person on a bike
+this is a motorcycle
+the person is riding the motorcycle
+--------------------
+MAP: 0.158 DET_MAP: 0.286
+metric/map:0.15766980263839167
+metric/ap_breakdown:{'iou_0.3_meteor_0': 0.3388666680455208, 'iou_0.3_meteor_0.05': 0.29886154413223265, 'iou_0.3_meteor_0.1': 0.2472969064116478, 'iou_0.3_meteor_0.15': 0.16730272769927979, 'iou_0.3_meteor_0.2': 0.11008968681097031, 'iou_0.3_meteor_0.25': 0.06890238016843796, 'iou_0.4_meteor_0': 0.3018309950828552, 'iou_0.4_meteor_0.05': 0.27030166387557986, 'iou_0.4_meteor_0.1': 0.2244269785284996, 'iou_0.4_meteor_0.15': 0.15458398476243018, 'iou_0.4_meteor_0.2': 0.10211739361286164, 'iou_0.4_meteor_0.25': 0.06531677007675171, 'iou_0.5_meteor_0': 0.25815371334552767, 'iou_0.5_meteor_0.05': 0.23220995664596558, 'iou_0.5_meteor_0.1': 0.1984148597717285, 'iou_0.5_meteor_0.15': 0.13739775285124778, 'iou_0.5_meteor_0.2': 0.09251837328076362, 'iou_0.5_meteor_0.25': 0.05949568524956703, 'iou_0.6_meteor_0': 0.207187559902668, 'iou_0.6_meteor_0.05': 0.18933889269828796, 'iou_0.6_meteor_0.1': 0.16252057313919066, 'iou_0.6_meteor_0.15': 0.11633923918008804, 'iou_0.6_meteor_0.2': 0.08034660369157791, 'iou_0.6_meteor_0.25': 0.05331360049545765, 'iou_0.7_meteor_0': 0.14731077447533608, 'iou_0.7_meteor_0.05': 0.1353704008460045, 'iou_0.7_meteor_0.1': 0.11840385481715203, 'iou_0.7_meteor_0.15': 0.08740483179688453, 'iou_0.7_meteor_0.2': 0.06184855759143829, 'iou_0.7_meteor_0.25': 0.04262115016579628}
+metric/detmap:0.285745274066925
+metric/det_breakdown:{'iou_0.3': 0.39806687891483306, 'iou_0.4': 0.348696314394474, 'iou_0.5': 0.2928336936235428, 'iou_0.6': 0.23054129242897034, 'iou_0.7': 0.15858819097280502}
