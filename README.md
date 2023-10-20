@@ -51,7 +51,7 @@ python cdkm/evaluation/eval.py --set val --pred_file prediction_file_path
 
 
 ## Test
-You can generate the prediction file on TextCaps test split and submit it to the TextCaps EvalAI server.
+You can generate a prediction file on the VG test partition.
 ```
 python train_net.py --tasks captioning --datasets vg --model cdkm \
 --config configs/Base.yml \
